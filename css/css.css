@@ -1,4 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Ubuntu);
+/* задание выполнено не до конца - нет адаптива */
 * {
   margin: 0;
   padding: 0;
@@ -442,19 +443,19 @@ line-height: 180%;
 letter-spacing: 0.01em;
 }
 .foot2{
-  
+
   width: 335px;
   height: 58px;
   left: 240px;
   top: 3984px;
-  
+
   font-family: Avenir;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
   line-height: 180%;
   /* or 29px */
-  
+
   letter-spacing: 0.01em;
   margin-top: 10px;
 }
